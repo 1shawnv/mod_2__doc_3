@@ -1,0 +1,33 @@
+#module-2-doc-3
+
+def input_sqFt():
+    width = int(input("What is the width: "))
+    length = int(input("What is the length: "))
+
+input_sqFt()
+
+import input_sqFt
+
+def calSqFt():
+    area = int(width) * int(length)
+
+calSqFt()
+
+
+Pi = 3.1415
+
+def input_rad():
+    Radius = int(input("What is the radius: "))
+
+input_rad()
+
+import input_rad
+
+def calcCir():
+     circumference = 2 * Pi * int(Radius) 
+
+calcCir()
+
+    
+
+
